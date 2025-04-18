@@ -1,0 +1,22 @@
+ID,EmployeeName,HireDate,Salary,Active,Department
+1,Alice Johnson,15/03/2015,55000,1,HR
+2,Bob Smith,22/07/2018,62000,1,Sales
+3,Charlie Brown,30/11/2012,48000,0,Finance
+4,Diana Prince,10/01/2020,72000,1,IT
+5,Ethan Hunt,05/05/2014,67000,1,Operations
+6,Fiona Gallagher,12/09/2017,53000,0,Marketing
+7,George Bailey,28/02/2013,49000,1,Finance
+8,Hannah Montana,20/06/2016,61000,1,IT
+9,Ian Malcolm,01/12/2011,80000,0,Research
+10,Jessica Pearson,18/04/2019,90000,1,Management
+11,Kevin Malone,30/10/2010,45000,0,Finance
+12,Laura Palmer,15/08/2021,58000,1,Sales
+13,Michael Scott,24/03/2005,75000,1,Sales
+14,Nancy Drew,19/07/2013,63000,1,Research
+15,Oscar Martinez,14/09/2011,55000,0,Accounting
+16,Pam Beesly,12/05/2008,48000,1,Sales
+17,Quentin Tarantino,07/11/2003,100000,1,Creative
+18,Rachel Green,01/02/2016,67000,1,Fashion
+19,Samuel L. Jackson,25/01/2012,85000,0,Operations
+20,Tina Fey,12/12/2014,77000,1,Marketing
+21,Daramola Ayomide,28/12/2023,170000,1,Data Science
